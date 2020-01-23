@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{2851DF67-E837-40C0-A4C8-94EE0EB8338B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>PdfMergeForCamila</RootNamespace>
-    <AssemblyName>PdfMergeForCamila</AssemblyName>
+    <RootNamespace>PdfMerge</RootNamespace>
+    <AssemblyName>PdfMerge</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
